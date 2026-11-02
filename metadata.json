@@ -1,0 +1,6 @@
+{
+  "name": "HomeLink",
+  "description": "Private local Wi-Fi family communication app with chat, voice messages, LAN file sharing, and peer-to-peer calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
